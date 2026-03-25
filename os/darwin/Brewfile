@@ -1,8 +1,24 @@
+# GitHub CLI
+# https://cli.github.com/
 brew "gh"
 
+# AIコーディングエージェント向け縦タブ・通知対応ターミナル
+# https://www.cmux.dev/
 cask "cmux"
+
+# Markdownノートアプリ
+# https://obsidian.md/
 cask "obsidian"
+
+# トラックパッドとマウスのスクロール方向を個別に設定
+# https://mos.caldis.me/
 cask "mos"
+
+# マウス対応のリッチなターミナルテキストエディタ
+# https://getfresh.dev/
 tap "sinelaw/fresh"
 brew "fresh-editor"
+
+# ターミナル上のGit TUIクライアント
+# https://github.com/jesseduffield/lazygit
 brew "lazygit"
